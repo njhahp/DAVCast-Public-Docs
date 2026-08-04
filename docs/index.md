@@ -27,7 +27,7 @@ DAVCast is an iPhone and iPad app for browsing WebDAV servers, playing media, pr
 
 ## Project links
 
-- Materials repository: https://github.com/njhahp/DAVCast-AppStore-Materials
+- Public docs repository: https://github.com/njhahp/DAVCast-Public-Docs
 
 ## Notes for App Store listing
 
@@ -37,9 +37,9 @@ Use the public pages above as the source for:
 - Privacy Policy URL
 - Terms of Use URL when subscriptions are enabled
 
-Recommended GitHub Pages URLs:
+Recommended public URLs:
 
-- `https://njhahp.github.io/DAVCast-AppStore-Materials/`
-- `https://njhahp.github.io/DAVCast-AppStore-Materials/support`
-- `https://njhahp.github.io/DAVCast-AppStore-Materials/privacy-policy`
-- `https://njhahp.github.io/DAVCast-AppStore-Materials/terms`
+- `https://njhahp.github.io/DAVCast-Public-Docs/`
+- `https://njhahp.github.io/DAVCast-Public-Docs/support`
+- `https://njhahp.github.io/DAVCast-Public-Docs/privacy-policy`
+- `https://njhahp.github.io/DAVCast-Public-Docs/terms`
