@@ -19,6 +19,34 @@ To keep post-launch pricing and offer strategy flexible:
 - Maintain exact price and trial detail copy in App Store Connect metadata and product configuration.
 - Keep app-side purchase UI free of manually maintained fixed pricing text; where needed, render StoreKit-provided display values.
 
+## Categories and age rating
+
+### Categories (suggested)
+
+- Primary: Utilities
+- Secondary: Entertainment
+
+Rationale: DAVCast is primarily a WebDAV file/media access tool (Utilities); playback and casting fit Entertainment as a secondary category.
+
+### Age rating (draft answers)
+
+- None of the following are included: sexual content, violence, profanity, gambling, drug references, restricted web content, unrestricted web access, 17+ material.
+- Suggested rating: 4+ (no objectionable content; no in-app purchase restrictions that change the rating).
+- Note: subscriptions do not require an age rating increase; the rating questionnaire is independent from subscription presence.
+
+## Screenshots
+
+Required before submission (capture from the latest build, then upload to App Store Connect):
+
+- iPhone 6.7" (and 6.5" if not using 6.7"): at least one, recommended 2-3 per locale
+- iPad 12.9" (only if you enable iPad screenshots): optional since the app supports iPad
+- Each screenshot must show the real UI, not the generated review media
+- Re-capture after any UI change
+
+## App Privacy questionnaire
+
+See `App-Privacy-Questionnaire.md` for ready-to-paste answers.
+
 ## English metadata
 
 ### App Name
