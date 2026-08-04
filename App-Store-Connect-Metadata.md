@@ -9,6 +9,15 @@ Prepared on: 2026-08-05
 - Terms of Use URL: `https://njhahp.github.io/DAVCast-Public-Docs/terms`
 - Marketing URL: `https://njhahp.github.io/DAVCast-Public-Docs/`
 
+## Flexibility policy
+
+To keep post-launch pricing and offer strategy flexible:
+
+- Do not hard-code fixed prices in public docs pages.
+- Do not hard-code subscription product IDs in user-facing pages.
+- Keep legal and support pages principle-based.
+- Treat the in-app purchase sheet and App Store product display as the final source of truth for current pricing, billing period, and trial terms.
+
 ## English metadata
 
 ### App Name
@@ -60,7 +69,7 @@ Implementation notes:
 - Server passwords are stored in Keychain.
 - Playlist and favorite URLs are sanitized to avoid embedded credentials.
 - The app uses local-network access only for AirPlay or DLNA discovery and casting.
-- DAVCast Pro uses auto-renewable subscriptions with product IDs `davcast.pro.monthly` and `davcast.pro.yearly`.
+- DAVCast Pro uses App Store auto-renewable subscriptions. Specific product configuration may evolve over time; users should rely on the in-app purchase sheet for current pricing and trial details.
 
 ## 简体中文元数据
 
@@ -113,4 +122,4 @@ DAVCast 是一款 WebDAV 客户端应用，用于浏览个人或组织的媒体�
 - 服务器密码存储在 Keychain 中。
 - 播放列表和收藏中的 URL 会清洗内嵌凭据。
 - 本地网络权限仅用于 AirPlay / DLNA 设备发现与投放。
-- DAVCast Pro 使用自动续订订阅，商品 ID 为 `davcast.pro.monthly` 和 `davcast.pro.yearly`。
+- DAVCast Pro 使用自动续订订阅。具体商品配置可能随版本与地区调整，用户应以应用内购买页展示的价格与试用信息为准。
