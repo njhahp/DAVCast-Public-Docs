@@ -4,10 +4,10 @@ Prepared on: 2026-08-05
 
 ## Public URLs
 
-- Support URL: `https://njhahp.github.io/DAVCast/support`
-- Privacy Policy URL: `https://njhahp.github.io/DAVCast/privacy-policy`
-- Terms of Use URL: `https://njhahp.github.io/DAVCast/terms`
-- Marketing URL: `https://njhahp.github.io/DAVCast/`
+- Support URL: `https://njhahp.github.io/DAVCast-AppStore-Materials/support`
+- Privacy Policy URL: `https://njhahp.github.io/DAVCast-AppStore-Materials/privacy-policy`
+- Terms of Use URL: `https://njhahp.github.io/DAVCast-AppStore-Materials/terms`
+- Marketing URL: `https://njhahp.github.io/DAVCast-AppStore-Materials/`
 
 ## English metadata
 
