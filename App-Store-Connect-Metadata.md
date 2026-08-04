@@ -16,7 +16,8 @@ To keep post-launch pricing and offer strategy flexible:
 - Do not hard-code fixed prices in public docs pages.
 - Do not hard-code subscription product IDs in user-facing pages.
 - Keep legal and support pages principle-based.
-- Treat the in-app purchase sheet and App Store product display as the final source of truth for current pricing, billing period, and trial terms.
+- Maintain exact price and trial detail copy in App Store Connect metadata and product configuration.
+- Keep app-side purchase UI free of manually maintained fixed pricing text; where needed, render StoreKit-provided display values.
 
 ## English metadata
 
@@ -69,7 +70,7 @@ Implementation notes:
 - Server passwords are stored in Keychain.
 - Playlist and favorite URLs are sanitized to avoid embedded credentials.
 - The app uses local-network access only for AirPlay or DLNA discovery and casting.
-- DAVCast Pro uses App Store auto-renewable subscriptions. Specific product configuration may evolve over time; users should rely on the in-app purchase sheet for current pricing and trial details.
+- DAVCast Pro uses App Store auto-renewable subscriptions. Specific product configuration may evolve over time; teams should maintain exact pricing and trial detail copy in App Store Connect metadata and aligned App Store listing content.
 
 ## 简体中文元数据
 
@@ -122,4 +123,4 @@ DAVCast 是一款 WebDAV 客户端应用，用于浏览个人或组织的媒体�
 - 服务器密码存储在 Keychain 中。
 - 播放列表和收藏中的 URL 会清洗内嵌凭据。
 - 本地网络权限仅用于 AirPlay / DLNA 设备发现与投放。
-- DAVCast Pro 使用自动续订订阅。具体商品配置可能随版本与地区调整，用户应以应用内购买页展示的价格与试用信息为准。
+- DAVCast Pro 使用自动续订订阅。具体商品配置可能随版本与地区调整，团队应在 App Store Connect 元数据与对应的 App Store 展示内容中维护准确的价格与试用细则。

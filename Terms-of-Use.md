@@ -27,7 +27,8 @@ DAVCast Pro is offered through App Store auto-renewable subscriptions.
 - Payment is charged to your Apple Account at confirmation of purchase or at the end of an applicable trial period
 - Subscriptions renew automatically unless canceled through Apple before the current billing period ends
 - Subscription management and cancellation are handled through Apple's subscription management tools
-- The purchase screen and App Store product sheet shown at checkout are the final source of truth for current price, billing period, and trial terms
+- Specific price points and trial detail copy are maintained in App Store Connect metadata and product configuration
+- The app should avoid hard-coded pricing copy and rely on App Store-provided product display data when showing purchase options
 
 ## Purchases and refunds
 

@@ -47,7 +47,7 @@ Check these common points first:
 - Open Settings in DAVCast
 - Use Restore Purchases
 - Confirm the App Store account matches the purchase account
-- Re-check the current subscription price, billing period, and trial terms shown in the purchase sheet for your storefront
+- Re-check the current subscription price, billing period, and trial terms in App Store listing metadata for your storefront
 
 ## Support channel
 
@@ -59,4 +59,4 @@ Publish this page together with one of these contact paths:
 
 For App Store submission, the public Support URL should point to this page or an equivalent hosted copy.
 
-Subscription pricing and trial terms may change over time. Always refer to the in-app purchase sheet and App Store checkout UI for the latest effective details.
+Subscription pricing and trial terms may change over time. Maintain exact values in App Store Connect metadata and keep app-side copy non-hardcoded.
