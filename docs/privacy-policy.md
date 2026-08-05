@@ -51,3 +51,7 @@ DAVCast relies on Apple system services such as:
 ## Control and deletion
 
 You can remove local data by deleting server configurations, playlists, favorites, or the app itself from your device.
+
+---
+
+© 2026 DAVCast
