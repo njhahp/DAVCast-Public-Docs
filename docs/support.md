@@ -46,3 +46,5 @@ DAVCast helps you connect to WebDAV servers, browse files, play media, preview d
 ## Contact
 
 For project support and issue tracking, use your preferred public support channel.
+---
+© 2026 DAVCast
