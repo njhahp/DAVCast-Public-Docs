@@ -32,3 +32,5 @@ DAVCast depends on network availability, WebDAV server reachability, device and 
 If no separate custom EULA is published in App Store Connect, the Apple Standard Licensed Application End User License Agreement applies in addition to these terms:
 
 - https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+---
+© 2026 DAVCast
