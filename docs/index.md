@@ -43,3 +43,5 @@ Recommended public URLs:
 - `https://njhahp.github.io/DAVCast-Public-Docs/support`
 - `https://njhahp.github.io/DAVCast-Public-Docs/privacy-policy`
 - `https://njhahp.github.io/DAVCast-Public-Docs/terms`
+---
+© 2026 DAVCast
