@@ -35,7 +35,7 @@ If no separate custom EULA is published in App Store Connect, the Apple Standard
 
 ## Contact
 
-- https://github.com/njhahp/DAVCast/issues
+- https://github.com/njhahp/DAVCast-Public-Docs/issues
 
 ---
 

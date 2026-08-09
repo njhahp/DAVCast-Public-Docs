@@ -57,7 +57,7 @@ You can remove local data by deleting server configurations, playlists, favorite
 
 For privacy questions, use the public project support channel:
 
-- https://github.com/njhahp/DAVCast/issues
+- https://github.com/njhahp/DAVCast-Public-Docs/issues
 
 ---
 
