@@ -6,12 +6,13 @@ permalink: /
 
 # DAVCast
 
-DAVCast is an iPhone and iPad app for browsing WebDAV servers, playing media, previewing documents, and casting supported content through AirPlay or DLNA.
+DAVCast is an iPhone and iPad app for browsing and managing files in WebDAV servers, playing media, previewing documents, and casting supported content through AirPlay or DLNA.
 
 ## Core capabilities
 
 - Connect to one or more WebDAV servers
 - Browse folders, search files, sort items, and select multiple files
+- Manage files: upload, download, create folders, rename, move, and delete
 - Play video and audio locally
 - Preview images, PDF, text, Markdown, HTML, Word, Excel, and PowerPoint files
 - Manage playlists and favorites
@@ -44,4 +45,5 @@ Recommended public URLs:
 - `https://njhahp.github.io/DAVCast-Public-Docs/privacy-policy`
 - `https://njhahp.github.io/DAVCast-Public-Docs/terms`
 ---
+
 © 2026 DAVCast

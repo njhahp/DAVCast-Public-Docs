@@ -6,11 +6,12 @@ permalink: /support
 
 # DAVCast Support
 
-DAVCast helps you connect to WebDAV servers, browse files, play media, preview documents, manage playlists and favorites, and cast supported content through AirPlay or DLNA.
+DAVCast helps you connect to WebDAV servers, browse and manage files (upload/download/create folder/rename/move/delete), play media, preview documents, manage playlists and favorites, and cast supported content through AirPlay or DLNA.
 
 ## What DAVCast supports
 
 - WebDAV server connection and browsing
+- WebDAV file management: upload, download, create folder, rename, move, delete
 - Video and audio playback
 - Image, PDF, text, Markdown, HTML, and Office document preview
 - AirPlay and DLNA casting on supported networks and devices
@@ -45,6 +46,11 @@ DAVCast helps you connect to WebDAV servers, browse files, play media, preview d
 
 ## Contact
 
-For project support and issue tracking, use your preferred public support channel.
+For project support and issue tracking, use:
+
+- GitHub Issues: https://github.com/njhahp/DAVCast/issues
+
+If you prefer email support, replace this section with your support mailbox before App Store submission.
 ---
+
 © 2026 DAVCast
