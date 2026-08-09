@@ -13,6 +13,8 @@
 - Support URL
 - Marketing URL if used
 - Privacy Policy URL
+- Terms of Use (EULA) URL if subscriptions are offered
+- **If using the Apple standard EULA: include the standard EULA link (`https://www.apple.com/legal/internet-services/itunes/dev/stdeula/`) in the App Description for every localized description** (App Review Guideline 3.1.2 requires a functional link to the Terms of Use in app metadata)
 - App Review notes
 - Screenshots for required device classes
 - App icon and age rating
@@ -35,6 +37,7 @@
 - Verify trial configuration for the yearly plan
 - Verify price and storefront availability
 - Verify Restore Purchases and entitlement refresh flow
+- Verify in-app Terms of Use and Privacy Policy links work (paywall and Settings)
 
 ## Technical checks
 
