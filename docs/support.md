@@ -50,6 +50,7 @@ For project support and issue tracking, use:
 
 - GitHub Issues: https://github.com/njhahp/DAVCast-Public-Docs/issues
 - Email: hahp@qq.com
+
 ---
 
 © 2026 DAVCast
