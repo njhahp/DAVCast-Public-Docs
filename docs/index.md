@@ -32,6 +32,8 @@ DAVCast is an iPhone and iPad app for browsing and managing files in WebDAV serv
 
 ## Notes for App Store listing
 
+Last docs sync: 2026-08-09.
+
 Use the public pages above as the source for:
 
 - Support URL
