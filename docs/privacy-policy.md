@@ -8,7 +8,7 @@ permalink: /privacy-policy
 
 Effective date: 2026-08-05
 
-DAVCast is designed to minimize data collection while allowing you to connect to your own WebDAV servers and play or preview your media.
+DAVCast is designed to minimize data collection while allowing you to connect to your own WebDAV servers, manage files (upload/download/create folder/rename/move/delete), and play or preview your media.
 
 ## Summary
 
@@ -17,6 +17,7 @@ DAVCast is designed to minimize data collection while allowing you to connect to
 - DAVCast connects only to servers and devices you configure or use
 - DAVCast may use local-network access to discover or cast to AirPlay or DLNA devices
 - DAVCast uses Apple App Store services to handle subscriptions
+- DAVCast can transfer files only between your device and your configured WebDAV server when you use upload or download actions
 
 ## Information DAVCast processes
 
@@ -52,6 +53,11 @@ DAVCast relies on Apple system services such as:
 
 You can remove local data by deleting server configurations, playlists, favorites, or the app itself from your device.
 
+## Contact
+
+For privacy questions, use the public project support channel:
+
+- https://github.com/njhahp/DAVCast/issues
 ---
 
 © 2026 DAVCast
