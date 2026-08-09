@@ -77,6 +77,8 @@ Key features:
 - Cast supported content through AirPlay and DLNA
 - Unlock DAVCast Pro through App Store subscriptions
 
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
 ### Keywords
 
 webdav,media player,video player,audio player,file browser,airplay,dlna,playlist,document viewer
@@ -129,6 +131,8 @@ DAVCast 帮助你在 iPhone 和 iPad 上连接自己的 WebDAV 服务器并访�
 - 管理播放列表与收藏
 - 通过 AirPlay 和 DLNA 投放支持的内容
 - 通过 App Store 订阅解锁 DAVCast Pro 功能
+
+服务条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 ### 关键词
 
