@@ -18,5 +18,6 @@ Current product positioning used in metadata:
 - Support URL: `https://njhahp.github.io/DAVCast-Public-Docs/support`
 - Privacy Policy URL: `https://njhahp.github.io/DAVCast-Public-Docs/privacy-policy`
 - Terms of Use URL: `https://njhahp.github.io/DAVCast-Public-Docs/terms`
+- Terms of Use (EULA) in App Description (Apple standard EULA): `https://www.apple.com/legal/internet-services/itunes/dev/stdeula/` — required for auto-renewable subscriptions in every localized description (App Review Guideline 3.1.2)
 
 For the full bilingual metadata package and App Review notes template, see the repository source file above.
